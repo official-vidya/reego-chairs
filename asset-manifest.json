@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reego-chairs/static/css/main.96870c3c.css",
+    "main.js": "/reego-chairs/static/js/main.f77f6da7.js",
+    "static/js/453.8644a9c4.chunk.js": "/reego-chairs/static/js/453.8644a9c4.chunk.js",
+    "static/media/image4.jpg": "/reego-chairs/static/media/image4.ca85586b4f00da659e1d.jpg",
+    "static/media/image6.jpg": "/reego-chairs/static/media/image6.734ce6ef14e8e35d45a4.jpg",
+    "static/media/image5.jpg": "/reego-chairs/static/media/image5.e74aa4c6aa39a63ad9e1.jpg",
+    "static/media/image1.jpg": "/reego-chairs/static/media/image1.b219a2cf4347883cf801.jpg",
+    "static/media/image3.jpg": "/reego-chairs/static/media/image3.6a5b26098bb86b233b9f.jpg",
+    "static/media/image2.jpg": "/reego-chairs/static/media/image2.bd7740d7782c0ed83ef5.jpg",
+    "static/media/logo.png": "/reego-chairs/static/media/logo.3272bd47e08284f7086e.png",
+    "static/media/woman.png": "/reego-chairs/static/media/woman.b5f5d2994117daab0fa9.png",
+    "static/media/man.png": "/reego-chairs/static/media/man.5b6adb8e38ee506fde52.png",
+    "static/media/amex.png": "/reego-chairs/static/media/amex.527edf329e422aae25d8.png",
+    "index.html": "/reego-chairs/index.html",
+    "main.96870c3c.css.map": "/reego-chairs/static/css/main.96870c3c.css.map",
+    "main.f77f6da7.js.map": "/reego-chairs/static/js/main.f77f6da7.js.map",
+    "453.8644a9c4.chunk.js.map": "/reego-chairs/static/js/453.8644a9c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96870c3c.css",
+    "static/js/main.f77f6da7.js"
+  ]
+}
